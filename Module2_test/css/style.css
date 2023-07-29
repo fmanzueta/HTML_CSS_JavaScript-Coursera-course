@@ -31,10 +31,33 @@ section {
   position: relative;
   top: 10px;
   right: 10px;
-  background-color: #ff0000;
+  background-color: #2471A3;
   padding: 5px 10px;
   color: #fff;
   font-size: 18px;
+  width: 25%;
+}
+
+.section-title-2 {
+  position: relative;
+  top: 10px;
+  right: 10px;
+  background-color: #3498DB;
+  padding: 5px 10px;
+  color: #fff;
+  font-size: 18px;
+  width: 25%;
+}
+
+.section-title-3 {
+  position: relative;
+  top: 10px;
+  right: 10px;
+  background-color: #7FB3D5;
+  padding: 5px 10px;
+  color: #fff;
+  font-size: 18px;
+  width: 25%;
 }
 
 /* Desktop View */
